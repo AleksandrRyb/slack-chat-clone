@@ -1,3 +1,6 @@
+Chat for communication based on react-redux-firebase
+P.S. accidentally pushed reducers and action in components, sorry for that =(
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
