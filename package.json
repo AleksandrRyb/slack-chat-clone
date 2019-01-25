@@ -3,9 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "emoji-mart": "^2.9.2",
+    "firebase": "^5.7.2",
+    "md5": "^2.2.1",
+    "mime-types": "^2.1.21",
+    "moment": "^2.23.0",
     "react": "^16.7.0",
+    "react-avatar-editor": "^11.0.4",
+    "react-color": "2.14.1",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.2",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.7",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.84.0",
+    "uuid": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,5 +35,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Aleksandr Rybin",
+  "license": "ISC"
 }
